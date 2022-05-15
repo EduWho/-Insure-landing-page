@@ -436,6 +436,9 @@ padding: 5rem;
           font-size: 2rem;
            
        }
+       .footer{
+           padding: 100px;
+       }
 }
 @media (max-width:430px){
     #nav{
